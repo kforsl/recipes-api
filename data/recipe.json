@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Decadent Chocolate Lava Cake",
+        "description": "A rich, gooey chocolate lava cake with a molten center that melts in your mouth. Perfect for chocolate lovers and special occasions!",
+        "tags": ["Dessert", "Chocolate", "Indulgent", "Baking"],
+        "imageUrl": ["./assets/food/_5bab38aa-459d-45ce-bacd-7fef4aa4710d.jpg"],
+        "createdBy": {
+            "_id": "107",
+            "username": "Flavorly",
+            "experienceLevel": "Head Chef",
+            "profilePictureUrl": "./assets/avatar/Flavorly.jpg"
+        },
+        "createdAt": { "$$date": 1730694915457 },
+        "comments": [],
+        "_id": "6P4IHnLFklPfmzIW"
+    },
+    {
+        "title": "Classic Margherita Pizza",
+        "description": "A simple but delicious margherita pizza topped with fresh basil and mozzarella.",
+        "tags": ["Italian", "Vegetarian", "Dinner"],
+        "imageUrl": ["./assets/food/_1c699c28-d018-4efd-abe2-cfa4a501cc4f.jpg"],
+        "createdBy": {
+            "_id": "102",
+            "username": "ItalianoVero",
+            "experienceLevel": "Aspiring Cook",
+            "profilePictureUrl": "./assets/avatar/ItalianoVero.jpg"
+        },
+        "createdAt": { "$$date": 1730884733437 },
+        "comments": [],
+        "_id": "9D14IAtKmpYxXCqs"
+    },
+    {
+        "title": "Thai Coconut Curry Soup",
+        "description": "A warm, creamy, and aromatic soup made with coconut milk, red curry paste, and fresh herbs, perfect for any time you need a little comfort.",
+        "tags": ["Soup", "Thai", "Vegan", "Comfort Food", "Spicy"],
+        "imageUrl": ["./assets/food/_686d132b-4e28-4261-8fc3-12be339bd8f4.jpg"],
+        "createdBy": {
+            "_id": "106",
+            "username": "SpiceExplorer",
+            "experienceLevel": "KitchenExplorer",
+            "profilePictureUrl": "./assets/avatar/SpiceExplorer.jpg"
+        },
+        "createdAt": { "$$date": 1731022978136 },
+        "comments": [],
+        "_id": "9O5ccfgoYOmB72Oc"
+    },
+    {
+        "title": "Spicy Garlic Shrimp Tacos",
+        "description": "Zesty, spicy garlic shrimp served with a creamy cilantro sauce.",
+        "tags": ["Seafood", "Mexican", "Spicy", "Dinner"],
+        "imageUrl": ["./assets/food/_58cf2adb-145a-483d-9d2d-687ef9cd7057.jpg"],
+        "createdBy": {
+            "_id": "101",
+            "username": "SpiceMaster21",
+            "experienceLevel": "Passionate Chef",
+            "profilePictureUrl": "./assets/avatar/SpiceMaster21.jpg"
+        },
+        "createdAt": { "$$date": 1730918148877 },
+        "comments": [],
+        "_id": "QVXK88ebGeLoGxdf"
+    },
+    {
+        "title": "Chocolate Avocado Mousse",
+        "description": "A creamy and decadent chocolate mousse made with avocado.",
+        "tags": ["Dessert", "Vegan", "Gluten-Free", "Dairy-Free"],
+        "imageUrl": ["./assets/food/_5ef8c23c-c43f-4a5e-b525-e4027fcbd316.jpg"],
+        "createdBy": {
+            "_id": "105",
+            "username": "ChocoAvocado",
+            "experienceLevel": "Newbie Cook",
+            "profilePictureUrl": "./assets/avatar/ChocoAvocado.jpg"
+        },
+        "createdAt": { "$$date": 1730997270910 },
+        "comments": [],
+        "_id": "r7ITzL8NXhyYi6GX"
+    },
+    {
+        "title": "Vegan Buddha Bowl",
+        "description": "A nutrient-packed bowl with quinoa, veggies, and tahini dressing.",
+        "tags": ["Vegan", "Healthy", "Lunch", "Gluten-Free"],
+        "imageUrl": ["./assets/food/_19a650aa-65b1-45a1-ae0d-377fd8b31101.jpg"],
+        "createdBy": {
+            "_id": "103",
+            "username": "Veganista",
+            "experienceLevel": "Kitchen Enthusiast",
+            "profilePictureUrl": "./assets/avatar/Veganista.jpg"
+        },
+        "createdAt": { "$$date": 1730810098542 },
+        "comments": [],
+        "_id": "yFtz8ZHsl4nAJ62S"
+    },
+    {
+        "title": "Lemon Herb Roasted Chicken",
+        "description": "A flavorful roast chicken with herbs and lemon.",
+        "tags": ["Chicken", "Dinner", "Comfort Food"],
+        "imageUrl": ["./assets/food/_0e6a494c-32ac-4439-812a-21f8ee581171.jpg"],
+        "createdBy": {
+            "_id": "104",
+            "username": "SundayCook",
+            "experienceLevel": "Hobby Chef",
+            "profilePictureUrl": "./assets/avatar/SundayCook.jpg"
+        },
+        "createdAt": { "$$date": 1730810453800 },
+        "comments": [],
+        "_id": "ypxqlBdimvUVMkgU"
+    }
+]
