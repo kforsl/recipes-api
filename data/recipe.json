@@ -10,7 +10,7 @@
             "experienceLevel": "Head Chef",
             "profilePictureUrl": "./assets/avatar/Flavorly.jpg"
         },
-        "createdAt": { "$$date": 1730694915457 },
+        "createdAt": "2024-11-05T16:30:00Z",
         "comments": [],
         "_id": "6P4IHnLFklPfmzIW"
     },
@@ -25,7 +25,7 @@
             "experienceLevel": "Aspiring Cook",
             "profilePictureUrl": "./assets/avatar/ItalianoVero.jpg"
         },
-        "createdAt": { "$$date": 1730884733437 },
+        "createdAt": "2024-10-11T12:30:00Z",
         "comments": [],
         "_id": "9D14IAtKmpYxXCqs"
     },
@@ -40,7 +40,7 @@
             "experienceLevel": "KitchenExplorer",
             "profilePictureUrl": "./assets/avatar/SpiceExplorer.jpg"
         },
-        "createdAt": { "$$date": 1731022978136 },
+        "createdAt": "2024-11-04T16:15:00Z",
         "comments": [],
         "_id": "9O5ccfgoYOmB72Oc"
     },
@@ -55,7 +55,7 @@
             "experienceLevel": "Passionate Chef",
             "profilePictureUrl": "./assets/avatar/SpiceMaster21.jpg"
         },
-        "createdAt": { "$$date": 1730918148877 },
+        "createdAt": "2024-11-03T20:02:00Z",
         "comments": [],
         "_id": "QVXK88ebGeLoGxdf"
     },
@@ -70,7 +70,7 @@
             "experienceLevel": "Newbie Cook",
             "profilePictureUrl": "./assets/avatar/ChocoAvocado.jpg"
         },
-        "createdAt": { "$$date": 1730997270910 },
+        "createdAt": "2024-11-01T08:14:00Z",
         "comments": [],
         "_id": "r7ITzL8NXhyYi6GX"
     },
@@ -85,7 +85,7 @@
             "experienceLevel": "Kitchen Enthusiast",
             "profilePictureUrl": "./assets/avatar/Veganista.jpg"
         },
-        "createdAt": { "$$date": 1730810098542 },
+        "createdAt": "2024-11-05T11:45:00Z",
         "comments": [],
         "_id": "yFtz8ZHsl4nAJ62S"
     },
@@ -100,7 +100,7 @@
             "experienceLevel": "Hobby Chef",
             "profilePictureUrl": "./assets/avatar/SundayCook.jpg"
         },
-        "createdAt": { "$$date": 1730810453800 },
+        "createdAt": "2024-11-07T14:30:00Z",
         "comments": [],
         "_id": "ypxqlBdimvUVMkgU"
     }
